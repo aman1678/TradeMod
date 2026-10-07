@@ -1,15 +1,6 @@
-backend/venv/
+# Python
+**/venv/
+**/__pycache__/
 
 # Logs
-**/logs/
-**/*.log
 **/node_modules/
-**/dist/
-**/dist-ssr/
-**/*.local
-
-# OS and Editor files
-.DS_Store
-.idea/
-.vscode/*
-!.vscode/extensions.json
