@@ -6,7 +6,7 @@ html {
   scroll-behavior: smooth;
 }
 
-header h1{
+header h1 {
   text-align: center;
 }
 
@@ -40,26 +40,29 @@ header li a {
   color: rgb(255,255,255);
 }
 
+.body {
+  margin: 5% 25%;
+}
 
-.contact-form form{
+.contact-form form {
   max-width: 500px;
   display: flex;
   flex-direction: column;
   gap: 12px;
 }
 
-.contact-form input{
+.contact-form input {
   border-radius: 6px;
   padding: 5px;
 }
 
-.contact-form textarea{
+.contact-form textarea {
   border-radius: 6px;
   padding: 5px;
   height: 200px;
 }
 
-.contact-form button{
+.contact-form button {
   max-width: 150px;
   padding: 5px;
   border-radius: 6px;

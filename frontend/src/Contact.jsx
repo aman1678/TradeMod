@@ -61,11 +61,13 @@ function Contact() {
 
     return(
         <section id="contact">
-            <div className="contact-body">
-                <h2>Want to reach out?</h2>
-                <p>Feel free to shoot me a message below!</p>
-                <Form/>
-            </div>    
+            <div className="body">
+                <div className="contact-body">
+                    <h2>Want to reach out?</h2>
+                    <p>Feel free to shoot me a message below!</p>
+                    <Form/>
+                </div>
+            </div>
         </section>    
     );
 }
