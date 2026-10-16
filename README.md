@@ -1,4 +1,4 @@
-# Site to learn about some popular pricing models.
+# TradeMod
 
 TradeMod is a website that allows newcomers and experiences individuals to gain an understanding on some popular pricing models for options.
 
@@ -16,4 +16,4 @@ TradeMod is a website that allows newcomers and experiences individuals to gain 
 ### General
 - Learn a handful of option pricing models including theory and their respective pros and cons
 
-## Built with Flask and React
+## Stack: Flask, React.js, Node.js, Vite, Vercel

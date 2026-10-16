@@ -9,22 +9,22 @@ function Learn() {
                     Here you may learn the details of each pricing
                     model.
                 </p>
-                <h3>Black-Scholes Model</h3>
+                <h3>Black-Scholes-Merton (BSM) Model</h3>
                 <p>
                     (enter equation here)
                 </p>
                 <p>
-                    The Black-Scholes equation is a famous model developed by
+                    The Black-Scholes-Merton equation is a famous model developed by
                     Fischer Black and Myron Scholes to calculate European 
                     style options.
                 </p>
 
-                <h3>Monte-Carlo Simulation</h3>
+                <h3>Monte Carlo Simulation</h3>
                 <p>
                     (enter something)
                 </p>
                 <p>
-                    Monte-Carlo simulation is a common algorithm used to 
+                    Monte Carlo simulation is a common algorithm used to 
                     model fair option price.
                 </p>
 

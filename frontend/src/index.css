@@ -6,6 +6,10 @@ html {
   scroll-behavior: smooth;
 }
 
+body {
+  background-color: rgb(246, 243, 242);
+}
+
 header h1 {
   text-align: center;
 }
@@ -41,34 +45,13 @@ header li a {
 }
 
 .body {
-  margin: 5% 25%;
+  margin: 5% 15%;
 }
 
-.contact-form form {
-  max-width: 500px;
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
+.body h2 {
+  color: rgb(200, 70, 0);
 }
 
-.contact-form input {
-  border-radius: 6px;
-  padding: 5px;
-}
-
-.contact-form textarea {
-  border-radius: 6px;
-  padding: 5px;
-  height: 200px;
-}
-
-.contact-form button {
-  max-width: 150px;
-  padding: 5px;
-  border-radius: 6px;
-}
-
-.contact-form button:hover {
-  cursor: pointer;
-  background-color: hsl(208, 100%, 90%);
+.overview-sections li{
+  margin-bottom: 12px;
 }

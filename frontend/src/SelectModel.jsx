@@ -5,8 +5,8 @@ function SelectModel() {
                 <h2>Model Selection</h2>
                 <label for="model-selection">Select Model: </label>
                 <select name="model-selection">
-                    <option value="bsm">Black-Scholes</option>
-                    <option value="monte-carlo">Monte-Carlo</option>
+                    <option value="bsm">Black-Scholes-Merton</option>
+                    <option value="monte-carlo">Monte Carlo</option>
                     <option value="bopm">Binomial Option Pricing</option>
                 </select>
                 <p>
